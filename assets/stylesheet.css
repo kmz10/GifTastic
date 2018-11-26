@@ -1,0 +1,57 @@
+
+.jumbotron{
+    background-color: black
+}
+
+body{
+    background-color:black;
+}
+
+.logo{
+   text-align: center;
+    color:white;
+
+    
+}
+
+.lead{
+    text-align: center;
+    color:white;
+}
+
+.btn {
+    margin: 5px;
+}
+
+
+#btnCollection{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.searchBar{
+    color:white;
+}
+
+.imgColection {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.gif {
+    max-width: 220px;
+    max-height: 220px;
+    overflow: hidden;
+    width:220px;
+    height:220px;
+}
+
+.play {
+    max-width: 200px;
+    max-height: 200px;
+    width:200px;
+    height:200px;
+ overflow: hidden;
+ 
+}
